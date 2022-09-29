@@ -78,3 +78,17 @@ API:
 - - shIELD REMOVED
 - - JAB REMOVED
 
+
+
+Change in the next release version
+
+Version 2.0.1
+
+Patch update
+
+API:
+- Walk
+- Talk
+- Throw a fisty
+- Swing -> Making swing more fast this is release in the v1.2.0 so better to udpate in that version also
+
