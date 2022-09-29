@@ -56,3 +56,25 @@ API:
 
 
 
+### Major
+Major updates are non-compatible, meaning consumers can not upgrade without changing their software where applicable.
+
+Content: Interface change breaking backward compatibility
+Example: Change API endpoint name or signature, Remove an endpoint
+Policy: Test your system extensively after updating.
+Migration documents may be in order
+
+
+Version 2.0.0
+
+An internal update
+
+API:
+- Walk
+- Talk
+- Throw a fisty
+- * Shield
+- *swing
+- - shIELD REMOVED
+- - JAB REMOVED
+
