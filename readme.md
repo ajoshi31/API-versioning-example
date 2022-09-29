@@ -56,3 +56,18 @@ API:
 
 
 
+
+Version 1.2.1
+
+An internal update
+
+API:
+- Walk
+- Talk
+- Throw a fisty
+- * Jab (depricated)
+- * Shield
+- *swing -> Upgraded swing
+
+
+
