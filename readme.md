@@ -37,3 +37,22 @@ API:
 - Throw a fisty
 - * Jab
 - * Shield
+
+
+Next Minor Update as we added new functionality and adding a deprication warning
+
+
+Version 1.2.0
+
+An internal update
+
+API:
+- Walk
+- Talk
+- Throw a fisty
+- * Jab (depricated)
+- * Shield
+- *swing
+
+
+
